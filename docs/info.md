@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Two input AND gate connected to an LED Output
 
 ## How to test
 
-Explain how to use your project
+Input binary values via switches and the LED indicates the output.
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Switches and LED
